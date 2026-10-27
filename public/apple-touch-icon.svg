@@ -1,0 +1,7 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="40" fill="#6366F1"/>
+  <path d="M45 67.5C45 58.3873 52.3873 51 61.5 51H118.5C127.613 51 135 58.3873 135 67.5V112.5C135 121.613 127.613 129 118.5 129H61.5C52.3873 129 45 121.613 45 112.5V67.5Z" fill="white"/>
+  <circle cx="73.125" cy="78.75" r="11.25" fill="#6366F1"/>
+  <path d="M45 106.875L67.5 84.375L90 106.875L112.5 84.375L135 106.875V112.5C135 121.613 127.613 129 118.5 129H61.5C52.3873 129 45 121.613 45 112.5V106.875Z" fill="#6366F1"/>
+  <text x="90" y="160" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">PhoPic</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#F9FAFB"/>
+  
+  <!-- Grid Pattern -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+  </pattern>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  
+  <!-- Main Card -->
+  <rect x="100" y="115" width="1000" height="400" rx="20" fill="white" filter="drop-shadow(0 20px 60px rgba(0,0,0,0.1))"/>
+  
+  <!-- Icon -->
+  <rect x="200" y="215" width="200" height="200" rx="20" fill="#6366F1"/>
+  <rect x="230" y="255" width="140" height="120" rx="10" fill="white"/>
+  <circle cx="270" cy="295" r="15" fill="#6366F1"/>
+  <path d="M230 345L270 305L310 345L350 305L370 325V355C370 360.523 365.523 365 360 365H240C234.477 365 230 360.523 230 355V345Z" fill="#6366F1"/>
+  
+  <!-- Text -->\n  <text x="450" y="270" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#111827">
+    포픽 (PhoPic)
+  </text>
+  <text x="450" y="340" font-family="Arial, sans-serif" font-size="32" fill="#6B7280">
+    브라우저에서 바로 사용하는
+  </text>
+  <text x="450" y="385" font-family="Arial, sans-serif" font-size="32" fill="#6B7280">
+    무료 온라인 이미지 편집 도구
+  </text>
+  
+  <!-- Features -->
+  <g transform="translate(450, 430)">
+    <circle cx="0" cy="0" r="8" fill="#10B981"/>
+    <text x="20" y="6" font-family="Arial, sans-serif" font-size="20" fill="#374151">크롭</text>
+    
+    <circle cx="120" cy="0" r="8" fill="#10B981"/>
+    <text x="140" y="6" font-family="Arial, sans-serif" font-size="20" fill="#374151">회전</text>
+    
+    <circle cx="240" cy="0" r="8" fill="#10B981"/>
+    <text x="260" y="6" font-family="Arial, sans-serif" font-size="20" fill="#374151">필터</text>
+    
+    <circle cx="360" cy="0" r="8" fill="#10B981"/>
+    <text x="380" y="6" font-family="Arial, sans-serif" font-size="20" fill="#374151">조정</text>
+  </g>
+</svg>
