@@ -1,0 +1,7 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="6" fill="#6366F1"/>
+  <path d="M8 12C8 10.3431 9.34315 9 11 9H21C22.6569 9 24 10.3431 24 12V20C24 21.6569 22.6569 23 21 23H11C9.34315 23 8 21.6569 8 20V12Z" fill="white"/>
+  <circle cx="13" cy="14" r="2" fill="#6366F1"/>
+  <path d="M8 19L12 15L16 19L20 15L24 19V20C24 21.6569 22.6569 23 21 23H11C9.34315 23 8 21.6569 8 20V19Z" fill="#6366F1"/>
+  <text x="16" y="28" font-family="Arial, sans-serif" font-size="6" font-weight="bold" fill="white" text-anchor="middle">PhoPic</text>
+</svg>
